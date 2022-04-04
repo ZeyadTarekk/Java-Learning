@@ -7,5 +7,7 @@ public class MainClass {
         d1.print();
         Dog d3 = new Dog(20, "Mego");
         d3.print();
+
+        Dog.display();
     }
 }
